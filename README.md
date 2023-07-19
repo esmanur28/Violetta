@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @esmanur28
+- I learn Html, Css, Javascript and Python
+- I am not bad (not bad but not good :) about Html and Css
+- you know, still learning
